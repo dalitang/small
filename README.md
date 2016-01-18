@@ -1,3 +1,3 @@
 # small
 
-small pieces of codes
+snippet codes
