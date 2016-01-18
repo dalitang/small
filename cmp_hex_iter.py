@@ -1,7 +1,7 @@
 # iteratively compare two bytes (in hex mode) from two files
 # and print the number of diff counts
 
-def compare_binary(f1, f2):
+def compare_binary_iter(f1, f2):
     """"""
     from itertools import izip # for python 2, if python 3, use zip
     counter = 0
